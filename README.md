@@ -70,6 +70,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 ## Code Quality
 
+### Codacy
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4b3d93344e1b491d883a3449993b723a)](https://www.codacy.com/app/Codacy/badges?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=boennemann/badges&amp;utm_campaign=Badge_Grade)
+
 ### Code Climate
 [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/boennemann/badges)
 
